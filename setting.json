@@ -1,22 +1,40 @@
 {
-    "autoAdd": false,
-    "autoAddMessage": "Halo @!, terimakasih telah menambahkan saya sebagai teman :3",
-    "autoJoin": false,
-    "autoJoinMessage": "Halo @!, makasih sudah invite saya",
-    "autoJoinTicket": false,
+    "autoAdd": {
+        "status": false,
+        "message": "Hello @!, thanks for add me as your friend\nIf you want to use selfbot subs this channel https://www.youtube.com/channel/UCXRsSsDqgG8OhQRumopLkuQ",
+        "reply": true
+    },
+    "autoJoin": {
+        "status": false,
+        "message": "Hello @!, thanks for invite me to this group\nIf you want to use selfbot subs this channel https://www.youtube.com/channel/UCXRsSsDqgG8OhQRumopLkuQ",
+        "reply": true,
+        "ticket": false
+    },
     "autoRead": false,
-    "autoRespon": false,
-    "autoResponMessage": "Woi @!, gak usah tag tag -_-",
+    "autoRespond": {
+        "status": false,
+        "message": "Hello @!, thanks for your message this is auto respond\nIf you want to use selfbot subs this channel https://www.youtube.com/channel/UCXRsSsDqgG8OhQRumopLkuQ"
+    },
+    "autoRespondMention": {
+        "status": true,
+        "message": "Hello @!, thanks for mentioned me, if your message is very important please leave it on personal chat\nIf you want to use selfbot subs this channel https://www.youtube.com/channel/UCXRsSsDqgG8OhQRumopLkuQ"
+    },
     "changeGroupPicture": [],
     "changePictureProfile": false,
+    "changeCoverPicture": false,
     "checkContact": false,
     "checkPost": false,
     "checkSticker": false,
-    "detectUnsend": false,
-    "keyCommand": "",
-    "mimic": {
-        "status": false,
-        "target": {}
+    "defaultReplyReader" : "Hello @!, come here join to chat\nIf you want to use selfbot subs this channel https://www.youtube.com/channel/UCXRsSsDqgG8OhQRumopLkuQ",
+    "greet": {
+        "join": {
+            "status": true,
+            "message": "Hello @!, welcome to group {name}\nIf you want to use selfbot subs this channel https://www.youtube.com/channel/UCXRsSsDqgG8OhQRumopLkuQ"
+        },
+        "leave": {
+            "status": false,
+            "message": "Good bye @!, see you next time"
+        }
     },
     "myProfile": {
         "coverId": "",
@@ -24,5 +42,14 @@
         "pictureStatus": "",
         "statusMessage": ""
     },
-    "setKey": false
+    "mimic": {
+        "status": false,
+        "target": {}
+    },
+    "setKey": {
+        "status": true,
+        "key": "."
+    },
+    "copyright": "If you respect the author please don't remove this copyright\n© 2018 Hello World",
+    "author_lineid": "You can add the author by line id, https://line.me/ti/p/~zero-cool404"
 }
