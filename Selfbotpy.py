@@ -320,7 +320,7 @@ def sendMentionFooter(to, mid, firstmessage, lastmessage):
         text += mention + str(lastmessage)
         nama = "{}".format(maxgie.getContact(maxgieMID).displayName)
         img = "http://dl.profile.line-cdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus)
-        ticket = "https://line.me/ti/p/~topzalove123"
+        ticket = "https://line.me/ti/p/~ptatan1983"
         maxgie.sendMessage(to, text, {'AGENT_LINK': ticket, 'AGENT_ICON': img, 'AGENT_NAME': nama, 'MENTION': str('{"MENTIONEES":' + json.dumps(arr) + '}')}, 0)
     except Exception as error:
         logError(error)
