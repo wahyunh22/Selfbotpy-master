@@ -1087,28 +1087,28 @@ async def maxgieBot(op):
                     sa+="\n- ประกาศ ข้อความ/ไอดีไลน์"
                     sa+="\nตัวอย่าง >\\<"
                     sa+="\n- ประกาศ มอนิ่ง/nonbysignal"
-                    data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": " ★ʄທയஆടஷະ★ ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"}}
+                    data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "TANBOTMEVERDIE✯͜͡❂➣  ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"}}
                     sendTemplate(to,data)
                 if text.lower() == "ตั้งapi":
                     sa = "วีธีใช้ api >\\<"
                     sa += "\n- ตั้งapi คีย์เวิร์ด;;ตอบกลับ"
                     sa += "\nตัวอย่าง >\\<"
                     sa += "\n- ตั้งapi เทส;;เทสทำไม"
-                    data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "★ʄທയஆടஷະ★  ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"}}
+                    data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "TANBOTMEVERDIE✯͜͡❂➣  ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"}}
                     sendTemplate(to,data)
                 if text.lower() == "stag":
                     sa = "วิธีใช้ stag >\\<"
                     sa += "\n- stag [เลขที่ต้องการ] @user"
                     sa += "\nตัวอย่าง >\\<"
                     sa += "\n- stag 1 @user"
-                    data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "★ʄທയஆടஷະ★ ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"}}
+                    data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "TANBOTMEVERDIE✯͜͡❂➣ ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"}}
                     sendTemplate(to,data)
                 if text.lower() == "สะกด":
                     sa = "วิธีใช้ สะกด >\\<"
                     sa += "\n- สะกดกิต [ข้อความ] @user"
                     sa += "\nตัวอย่าง >\\<"
                     sa += "\n- สะกด รักทอป @user"
-                    data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "★ʄທയஆടஷະ★  ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"}}
+                    data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "TANBOTMEVERDIE✯͜͡❂➣  ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"}}
                     sendTemplate(to,data)
                 if text.lower() == "เชคค่า" or text.lower() == "set":
                     sas = "☆ Settings ☆"
@@ -3174,7 +3174,7 @@ async def maxgieBot(op):
                                      "size": "full",
                                      "action": {
                                          "type": "uri",
-                                          "uri": "line://ti/p/~nonbysignal"
+                                          "uri": "line://ti/p/~ptatan1983"
                                      }
                                 }
                             ]
@@ -4610,7 +4610,7 @@ async def maxgieBot(op):
                                                     "action": {
                                                         "type": "uri",
                                                         "label": "Send Image",
-                                                        "uri": "line://app/1602687308-GXq4Vvk9?type=image&img={}".format(str(food["url"]))
+                                                        "uri": "line://app/1626602314-Vrp0l7Ae?type=image&img={}".format(str(food["url"]))
                                                         }
                                                     }
                                                 )
@@ -4682,7 +4682,7 @@ async def maxgieBot(op):
                                                     "action": {
                                                         "type": "uri",
                                                         "label": "Send Image",
-                                                        "uri": "line://app/1602687308-GXq4Vvk9?type=image&img={}".format(str(fn["img"]))
+                                                        "uri": "line://app/1626602314-Vrp0l7Ae?type=image&img={}".format(str(fn["img"]))
                                                         }
                                                     }
                                                 )
@@ -4720,7 +4720,7 @@ async def maxgieBot(op):
                                         time.sleep(random.uniform(0.95,1))
                                         maxgie.sendMessage(receiver, None, contentMetadata={"STKID": "52002735","STKPKGID": "11537","STKVER": "1" }, contentType=7)
                                         gname = line.getGroup(receiver).name
-                                        maxgie.sendMessage(Notify,"[ ยกค้างเชิญ >> "+gname+"  <<] \n จำนวน {} คน เรียบร้อยแล้ว👏\n『★ʄທയஆടஷະ★ 』".format(str(len(gMembMids))))
+                                        maxgie.sendMessage(Notify,"[ ยกค้างเชิญ >> "+gname+"  <<] \n จำนวน {} คน เรียบร้อยแล้ว👏\n『TANBOTMEVERDIE✯͜͡❂➣ 』".format(str(len(gMembMids))))
                                         time.sleep(random.uniform(0.95,1))
                                         maxgie.leaveGroup(receiver)
                                 								
@@ -4970,7 +4970,7 @@ async def maxgieBot(op):
                     ret_ += "\n╠ จำนวนค้างเชิญ : {}".format(gPending)
                     ret_ += "\n╠ ลิ้งของกลุ่ม : {}".format(gQr)
                     ret_ += "\n╠ ลิ้งกลุ่ม👉 : {}".format(gTicket)
-                    ret_ += "\n╚══『★ʄທയஆടஷະ★ 』"
+                    ret_ += "\n╚══『TANBOTMEVERDIE✯͜͡❂➣ 』"
                     data = {
                         "type": "flex",
                         "altText": "กลุ่ม",
