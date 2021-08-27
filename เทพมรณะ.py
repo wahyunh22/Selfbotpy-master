@@ -135,8 +135,8 @@ tagadd = {
     "add": "ยินดีที่ได้รู้จักนะครับ 😃\nรับแอดละน้า. >_<",
     "wctext": "หวัดดีๆๆๆๆ",
     "lv": "จะรีบไปใหน หว่า",
-    "b": "บัญชีนี้ถูกป้องกันด้วย\n AUTO BLOCK ★ʄທയஆടஷະ★  \nระบบได้บล็อคบัญชีคุณอัตโนมัติ >_<",
-    "c":"AUTO LIKE FOR ★ʄທയஆടஷະ★ ",
+    "b": "บัญชีนี้ถูกป้องกันด้วย\n AUTO BLOCK TANBOTMEVERDIE✯͜͡❂➣  \nระบบได้บล็อคบัญชีคุณอัตโนมัติ >_<",
+    "c":"AUTO LIKE FOR TANBOTMEVERDIE✯͜͡❂➣ ",
     "m": "เจอลิ้งไม่ได้นะ ผมต้องมุด555",
 }
 apalo = {
@@ -375,7 +375,7 @@ def changeVideoAndPictureProfile(pict, vids):
 def sendTemplate(to, data):
     xyz = LiffChatContext(to)
     xyzz = LiffContext(chat=xyz)
-    view = LiffViewRequest('1602687308-GXq4Vvk9', xyzz)
+    view = LiffViewRequest('1626602314-Vrp0l7Ae', xyzz)
     token = maxgie.liff.issueLiffView(view)
     url = 'https://api.line.me/message/v3/share'
     headers = {
@@ -387,7 +387,7 @@ def sendTemplate(to, data):
 def sendTemplate(group, data):
     xyz = LiffChatContext(group)
     xyzz = LiffContext(chat=xyz)
-    view = LiffViewRequest('1602687308-GXq4Vvk9', xyzz)
+    view = LiffViewRequest('1626602314-Vrp0l7Ae', xyzz)
     token = maxgie.liff.issueLiffView(view)
     url = 'https://api.line.me/message/v3/share'
     headers = {
@@ -738,7 +738,7 @@ async def maxgieBot(op):
                          "size":"full",
                          "action": {
                              "type": "uri",
-                             "uri": "line://ti/p/~nonbysignal"
+                             "uri": "line://ti/p/~ptatan1983"
                      #      
                      #   "
                          }
@@ -809,7 +809,7 @@ async def maxgieBot(op):
                          "size":"full",
                          "action": {
                              "type": "uri",
-                             "uri": "line://ti/p/~nonbysignal"
+                             "uri": "line://ti/p/~ptatan1983"
                            #"
                          }
                     },
@@ -1507,7 +1507,7 @@ async def maxgieBot(op):
                                         "action": {
                                             "type":"uri",
                                             "label":"ผู้สร้าง",
-                                            "uri":"line://ti/p/~nonbysignal"
+                                            "uri":"line://ti/p/~ptatan1983"
                                         },
                                     },
                                 ]
