@@ -1335,7 +1335,7 @@ async def maxgieBot(op):
                       try:
                           tagadd["tag"] = text_
                           sa = "「 ตั้งคำแทค 」\nคือ : " + text_
-                          data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "★ʄທയஆടஷະ★  ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"}}
+                          data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "TANBOTMEVERDIE✯͜͡❂➣  ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"}}
                           sendTemplate(to,data)
                       except:
                           maxgie.sendMessage(to,"Done. >_<")
@@ -1344,7 +1344,7 @@ async def maxgieBot(op):
                       try:
                           settings["reply"] = text_
                           sa = "「 ตั้งคำแทค 」\nคือ : " + text_
-                          data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "★ʄທയஆടஷະ★", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"}}
+                          data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "TANBOTMEVERDIE✯͜͡❂➣", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"}}
                           sendTemplate(to,data)
                       except:
                           maxgie.sendMessage(to,"Done. >_<")
@@ -1353,7 +1353,7 @@ async def maxgieBot(op):
                       try:
                           tagadd["wctext"] = text_
                           sa = "「 ตั้งต้อนรับ 」\nคือ : " + text_
-                          data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": " ★ʄທയஆടஷະ★", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"}}
+                          data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": " TANBOTMEVERDIE✯͜͡❂➣", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"}}
                           sendTemplate(to,data)
                       except:
                           maxgie.sendMessags(to,"Done. >_<")
@@ -1369,7 +1369,7 @@ async def maxgieBot(op):
                       try:
                           tagadd["add"] = text_
                           sa = "「 ตั้งแอด 」\nคือ : " + text_
-                          data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "★ʄທയஆടஷະ★ ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"}}
+                          data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "TANBOTMEVERDIE✯͜͡❂➣ ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"}}
                           sendTemplate(to,data)
                       except:
                           maxgie.sendMessags(to,"Done. >_<")
@@ -1378,7 +1378,7 @@ async def maxgieBot(op):
                       try:
                           settings["commet"] = text_
                           sa = "「 ตั้งคอมเม้น 」\nคือ : " + text_
-                          data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "★ʄທയஆടஷະ★ ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"}}
+                          data = {"type": "text","text": "{}".format(sa),"sentBy": {"label": "TANBOTMEVERDIE✯͜͡❂➣ ", "iconUrl": "https://obs.line-scdn.net/{}".format(maxgie.getContact(maxgieMID).pictureStatus),"linkUrl": "line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"}}
                           sendTemplate(to,data)
                       except:
                           maxgie.sendMessags(to,"Done. >_<")
@@ -1642,7 +1642,7 @@ async def maxgieBot(op):
                                                  "color":"#353535",
                                                  "action":{
                                                      "type":"uri",
-                                                     "label":"★ʄທയஆടஷະ★ ",
+                                                     "label":"TANBOTMEVERDIE✯͜͡❂➣ ",
                                                      "uri":"line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"
                                                  },
                                             },
@@ -1695,7 +1695,7 @@ async def maxgieBot(op):
                                                  "color":"#353535",
                                                  "action":{
                                                      "type":"uri",
-                                                     "label":"★ʄທയஆടஷະ★",
+                                                     "label":"TANBOTMEVERDIE✯͜͡❂➣",
                                                      "uri":"line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"
                                                  },
                                             },
@@ -1748,7 +1748,7 @@ async def maxgieBot(op):
                                                  "color":"#353535",
                                                  "action":{
                                                      "type":"uri",
-                                                     "label":"★ʄທയஆടஷະ★",
+                                                     "label":"TANBOTMEVERDIE✯͜͡❂➣",
                                                      "uri":"line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"
                                                  },
                                             },
@@ -1824,7 +1824,7 @@ async def maxgieBot(op):
                                                  "color":"#353535",
                                                  "action":{
                                                      "type":"uri",
-                                                     "label":"★ʄທയஆടஷະ★ ",
+                                                     "label":"TANBOTMEVERDIE✯͜͡❂➣ ",
                                                      "uri":"line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"
                                                  },
                                             },
@@ -1877,7 +1877,7 @@ async def maxgieBot(op):
                                                  "color":"#353535",
                                                  "action":{
                                                      "type":"uri",
-                                                     "label":"★ʄທയஆടஷະ★ ",
+                                                     "label":"TANBOTMEVERDIE✯͜͡❂➣ ",
                                                      "uri":"line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"
                                                  },
                                             },
@@ -2022,7 +2022,7 @@ async def maxgieBot(op):
                                                  "color":"#00F5FF",
                                                  "action":{
                                                      "type":"uri",
-                                                     "label":"★ʄທയஆടஷະ★ ",
+                                                     "label":"TANBOTMEVERDIE✯͜͡❂➣ ",
                                                      "uri":"line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"
                                                  },
                                             },
@@ -2075,7 +2075,7 @@ async def maxgieBot(op):
                                                  "color":"#00F5FF",
                                                  "action":{
                                                      "type":"uri",
-                                                     "label":"★ʄທയஆടஷະ★",
+                                                     "label":"TANBOTMEVERDIE✯͜͡❂➣",
                                                      "uri":"line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"
                                                  },
                                             },
@@ -2128,7 +2128,7 @@ async def maxgieBot(op):
                                                  "color":"#00F5FF",
                                                  "action":{
                                                      "type":"uri",
-                                                     "label":"★ʄທയஆടஷະ★",
+                                                     "label":"TANBOTMEVERDIE✯͜͡❂➣",
                                                      "uri":"line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"
                                                  },
                                             },
@@ -2204,7 +2204,7 @@ async def maxgieBot(op):
                                                  "color":"#00F5FF",
                                                  "action":{
                                                      "type":"uri",
-                                                     "label":"★ʄທയஆടஷະ★ ",
+                                                     "label":"TANBOTMEVERDIE✯͜͡❂➣ ",
                                                      "uri":"line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"
                                                  },
                                             },
@@ -2257,7 +2257,7 @@ async def maxgieBot(op):
                                                  "color":"#00F5FF",
                                                  "action":{
                                                      "type":"uri",
-                                                     "label":"★ʄທയஆടஷະ★ ",
+                                                     "label":"TANBOTMEVERDIE✯͜͡❂➣ ",
                                                      "uri":"line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"
                                                  },
                                             },
@@ -2490,7 +2490,7 @@ async def maxgieBot(op):
 "size": "md"
 },
 {
-"text": "  is bot line ★ʄທയஆടஷະ★ ",
+"text": "  is bot line TANBOTMEVERDIE✯͜͡❂➣ ",
 "size": "xs",
 "margin": "none",
 "color": "#00F5FF",
@@ -2637,7 +2637,7 @@ async def maxgieBot(op):
 "size": "md"
 },
 {
-"text": " is bot line ★ʄທയஆടஷະ★ ",
+"text": " is bot line TANBOTMEVERDIE✯͜͡❂➣ ",
 "size": "xs",
 "margin": "none",
 "color": "#00F5FF",
@@ -2796,7 +2796,7 @@ async def maxgieBot(op):
                                     {
                                       "contents": [
                                         {
-                                          "text": "★ʄທയஆടஷະ★ ",
+                                          "text": "TANBOTMEVERDIE✯͜͡❂➣ ",
                                           "size": "xl",
                                           "action": {
                                             "uri": "line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac",
@@ -2895,7 +2895,7 @@ async def maxgieBot(op):
                                                     },
                                                     {
                                                         "type": "text",
-                                                        "text": "★ʄທയஆടஷະ★ ",
+                                                        "text": "TANBOTMEVERDIE✯͜͡❂➣ ",
                                                         "align": "center",
                                                         "color": s,
                                                         "size": "md",
@@ -2967,7 +2967,7 @@ async def maxgieBot(op):
                                                     },
                                                     {
                                                         "type": "text",
-                                                        "text": "★ʄທയஆടஷະ★ ",
+                                                        "text": "TANBOTMEVERDIE✯͜͡❂➣ ",
                                                         "align": "center",
                                                         "color": s,
                                                         "size": "md",
@@ -3053,7 +3053,7 @@ async def maxgieBot(op):
                                                     },
                                                     {
                                                         "type": "text",
-                                                        "text": "★ʄທയஆടஷະ★ ",
+                                                        "text": "TANBOTMEVERDIE✯͜͡❂➣ ",
                                                         "align": "center",
                                                         "color": s,
                                                         "size": "md",
@@ -3083,7 +3083,7 @@ async def maxgieBot(op):
                             sendTemplate(to, data)
                 if text.lower() == "เรา":
                     contact = maxgie.getContact(sender)
-                    sendTemplate(to,{"type":"flex","altText": "★ʄທയஆടஷະ★ ","contents":{"type":"bubble","footer":{"type":"box","layout":"horizontal","contents":[{"color":"#333333","size":"xs","wrap":True,"action":{"type":"uri","uri":"https://sv1.picz.in.th/images/2019/05/19/wubKKl.gif"},"type":"text","text":"★ʄທയஆടஷະ★ ","align":"center","weight":"bold"},{"type":"separator","color":"#FF3333"},{"color":"#FF3333","size":"xs","wrap":True,"action":{"type":"uri","uri":"line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"},"type":"text","text":"ผู้สร้าง","align":"center","weight":"bold"}]},"styles":{"footer":{"backgroundColor":"#000000"},"body":{"backgroundColor":"#CCFFFF"}},"body":{"type":"box","contents":[{"type":"box","contents":[{"type":"separator","color":"#FF3333"},{"aspectMode":"cover","gravity":"bottom","aspectRatio":"1:1","size":"sm","type":"image","url":"https://sv1.picz.in.th/images/2019/05/19/wubKKl.gif"},{"type":"separator","color":"#FF3333"},{"type":"image","aspectMode":"cover","aspectRatio":"1:1","size":"sm","url":"https://sv1.picz.in.th/images/2019/05/19/wubKKl.gif"},{"type":"separator","color":"#FF3333"},{"type":"image","aspectMode":"cover","aspectRatio":"1:1","size":"sm","url":"https://img.live/images/2019/02/10/1549778907829.jpg"},{"type":"separator","color":"#FF3333"},{"type":"image","aspectMode":"cover","aspectRatio":"1:1","size":"sm","url":"https://sv1.picz.in.th/images/2019/05/19/wubKKl.gif"},{"type":"separator","color":"#FF3333"}],"layout":"vertical","spacing":"none","flex":1},{"type":"separator","color":"#FF3333"},{"type":"box","contents":[{"type":"separator","color":"#FF3333"},{"color":"#FF3333","size":"md","wrap":True,"type":"text","text":" ★ʄທയஆടஷະ★ ","weight":"bold"},{"type":"separator","color":"#FF3333"},{"color":"#FF3333","size":"md","wrap":True,"type":"text","text":"{}".format(contact.displayName),"weight":"bold"},{"type":"separator","color":"#FF3333"},{"color":"#FF3333","size":"xs","wrap":True,"type":"text","text":"Status Profile:","weight":"bold"},{"type":"text","text":"{}".format(contact.statusMessage),"size":"xxs","wrap":True,"color":"#FF3333"}],"layout":"vertical","flex":2}],"layout":"horizontal","spacing":"md"},"hero":{"aspectMode":"cover","margin":"xxl","aspectRatio":"1:1","size":"full","type":"image","url":"https://obs.line-scdn.net/{}".format(contact.pictureStatus)}}})            
+                    sendTemplate(to,{"type":"flex","altText": "TANBOTMEVERDIE✯͜͡❂➣ ","contents":{"type":"bubble","footer":{"type":"box","layout":"horizontal","contents":[{"color":"#333333","size":"xs","wrap":True,"action":{"type":"uri","uri":"https://sv1.picz.in.th/images/2019/05/19/wubKKl.gif"},"type":"text","text":"★ʄທയஆടஷະ★ ","align":"center","weight":"bold"},{"type":"separator","color":"#FF3333"},{"color":"#FF3333","size":"xs","wrap":True,"action":{"type":"uri","uri":"line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"},"type":"text","text":"ผู้สร้าง","align":"center","weight":"bold"}]},"styles":{"footer":{"backgroundColor":"#000000"},"body":{"backgroundColor":"#CCFFFF"}},"body":{"type":"box","contents":[{"type":"box","contents":[{"type":"separator","color":"#FF3333"},{"aspectMode":"cover","gravity":"bottom","aspectRatio":"1:1","size":"sm","type":"image","url":"https://sv1.picz.in.th/images/2019/05/19/wubKKl.gif"},{"type":"separator","color":"#FF3333"},{"type":"image","aspectMode":"cover","aspectRatio":"1:1","size":"sm","url":"https://sv1.picz.in.th/images/2019/05/19/wubKKl.gif"},{"type":"separator","color":"#FF3333"},{"type":"image","aspectMode":"cover","aspectRatio":"1:1","size":"sm","url":"https://img.live/images/2019/02/10/1549778907829.jpg"},{"type":"separator","color":"#FF3333"},{"type":"image","aspectMode":"cover","aspectRatio":"1:1","size":"sm","url":"https://sv1.picz.in.th/images/2019/05/19/wubKKl.gif"},{"type":"separator","color":"#FF3333"}],"layout":"vertical","spacing":"none","flex":1},{"type":"separator","color":"#FF3333"},{"type":"box","contents":[{"type":"separator","color":"#FF3333"},{"color":"#FF3333","size":"md","wrap":True,"type":"text","text":" ★ʄທയஆടஷະ★ ","weight":"bold"},{"type":"separator","color":"#FF3333"},{"color":"#FF3333","size":"md","wrap":True,"type":"text","text":"{}".format(contact.displayName),"weight":"bold"},{"type":"separator","color":"#FF3333"},{"color":"#FF3333","size":"xs","wrap":True,"type":"text","text":"Status Profile:","weight":"bold"},{"type":"text","text":"{}".format(contact.statusMessage),"size":"xxs","wrap":True,"color":"#FF3333"}],"layout":"vertical","flex":2}],"layout":"horizontal","spacing":"md"},"hero":{"aspectMode":"cover","margin":"xxl","aspectRatio":"1:1","size":"full","type":"image","url":"https://obs.line-scdn.net/{}".format(contact.pictureStatus)}}})            
                 elif text.lower() == "/runtime" or text.lower() == "/ออน":
                     timeNow = time.time() - Start
                     runtime = timeChange(timeNow)
@@ -3263,7 +3263,7 @@ async def maxgieBot(op):
                                                 "height": "sm",
                                                 "action": {
                                                     "type": "uri",
-                                                    "label": "★ʄທയஆടஷະ★ ",
+                                                    "label": "TANBOTMEVERDIE✯͜͡❂➣ ",
                                                     "uri": "line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac"
                                                 }                                                   
                                             },
@@ -3314,7 +3314,7 @@ async def maxgieBot(op):
                                 maxgie.acquireGroupCallRoute(to)
                                 maxgie.inviteIntoGroupCall(to, contactIds=members)
                             ret_ += "\n├> @!"
-                        ret_ += "\n╰─── ★ʄທയஆടஷະ★ "
+                        ret_ += "\n╰─── TANBOTMEVERDIE✯͜͡❂➣ "
                         maxgie.sendPhu(to, ret_, lists)   
                                         
                 elif "Spam " in msg.text:
@@ -3354,7 +3354,7 @@ async def maxgieBot(op):
                         ret_ += "\n├ {}".format(str(runtime))
                         ret_ += "\n├────────────"
                         ret_ += "\n├ ผู้สร้าง : {}".format(str(creator.displayName))
-                        ret_ += "\n╰───「 ★ʄທയஆടஷະ★  」"
+                        ret_ += "\n╰───「 TANBOTMEVERDIE✯͜͡❂➣  」"
                         feds = "{}".format(str(ret_))
                         data = {
                             "type": "text",
@@ -3789,7 +3789,7 @@ async def maxgieBot(op):
 "size": "md"
 },
 {
-"text": " ★ʄທയஆടஷະ★ ",
+"text": " TANBOTMEVERDIE✯͜͡❂➣ ",
 "size": "xs",
 "margin": "none",
 "color": "#FFD300",
@@ -3823,7 +3823,7 @@ async def maxgieBot(op):
 "height": "sm",
 "action": {
 "type": "uri",
-"label": "★ʄທയஆടஷະ★ ",
+"label": "TANBOTMEVERDIE✯͜͡❂➣ ",
 "uri": "line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac",
 }
 },
@@ -3836,7 +3836,7 @@ async def maxgieBot(op):
 "height": "sm",
 "action": {
 "type": "uri",
-"label": "★ʄທയஆടஷະ★ ",
+"label": "TANBOTMEVERDIE✯͜͡❂➣ ",
 "uri": "line://nv/profilePopup/mid=ue846139824ec13384cbb921b460323ac",
 }
 }
@@ -3873,7 +3873,7 @@ async def maxgieBot(op):
                                                 "contents": [
                                                     {
                                                         "type": "text",
-                                                        "text": "★ʄທയஆടஷະ★ ",
+                                                        "text": "TANBOTMEVERDIE✯͜͡❂➣ ",
                                                         "size": "md",
                                                         "weight": "bold",
                                                         "align": "center",
@@ -4033,7 +4033,7 @@ async def maxgieBot(op):
                                                 "contents": [
                                                     {
                                                         "type": "text",
-                                                        "text": "★ʄທയஆടஷະ★ ",
+                                                        "text": "TANBOTMEVERDIE✯͜͡❂➣ ",
                                                         "size": "md",
                                                         "weight": "bold",
                                                         "align": "center",
@@ -4193,7 +4193,7 @@ async def maxgieBot(op):
                                                 "contents": [
                                                     {
                                                         "type": "text",
-                                                        "text": "★ʄທയஆടஷະ★ ",
+                                                        "text": "TANBOTMEVERDIE✯͜͡❂➣ ",
                                                         "size": "md",
                                                         "weight": "bold",
                                                         "align": "center",
@@ -4349,7 +4349,7 @@ async def maxgieBot(op):
 #==============================================================================#
                 elif text.lower() == "แทค":
                         group = maxgie.getGroup(to);nama = [contact.mid for contact in group.members];nama.remove(maxgie.getProfile().mid)
-                        maxgie.datamention(to,'★ʄທയஆടஷະ★ ',nama)
+                        maxgie.datamention(to,'TANBOTMEVERDIE✯͜͡❂➣ ',nama)
                 elif text.lower() == "/แทค" or text.lower() == "tagall":
                     if msg._from in maxgieMID:
                         group = maxgie.getGroup(msg.to)
@@ -4714,7 +4714,7 @@ async def maxgieBot(op):
                                                 maxgie.cancelGroupInvitation(msg.to,[j])
                                                 print ("[Command] "+str(num)+" => "+str(len(gMembMids))+" cancel members")
                                                 num = num+1
-                                            maxgie.sendMessage(receiver,"รอสักครู่🕛เดียวยกต่อ 20 คน\n 『.★ʄທയஆടஷະ★ 』 ")
+                                            maxgie.sendMessage(receiver,"รอสักครู่🕛เดียวยกต่อ 20 คน\n 『.TANBOTMEVERDIE✯͜͡❂➣ 』 ")
                                             time.sleep(random.uniform(15,10))
                                         maxgie.sendMessage(receiver,"[ ยกค้างเชิญ จำนวน {} คน เรียบร้อยแล้ว👏]".format(str(len(gMembMids))))
                                         time.sleep(random.uniform(0.95,1))
@@ -4873,7 +4873,7 @@ async def maxgieBot(op):
                                 "contents": [
                                     {
                                         "type":"text",
-                                        "text": "★ʄທയஆടஷະ★ ",
+                                        "text": "TANBOTMEVERDIE✯͜͡❂➣ ",
                                         "size":"md",
                                        # "weight":"bold",
                                         "color":"#FF3333",
@@ -5313,7 +5313,7 @@ async def maxgieBot(op):
                 if text is None:
                     return
                 if text.lower() == ".":
-                    duc1(to, "★ʄທയஆടஷະ★ ") 
+                    duc1(to, "TANBOTMEVERDIE✯͜͡❂➣ ") 
 #========================================================================
             elif msg.contentType == 7: # Content type is sticker
                 if settings['Sticker']:
@@ -5466,7 +5466,7 @@ async def maxgieBot(op):
 "spacing": "sm",
 "contents": [
 {
-"text": "  เวลา :"+van2 +" \n ★ʄທയஆടஷະ★ ",
+"text": "  เวลา :"+van2 +" \n TANBOTMEVERDIE✯͜͡❂➣ ",
 "size": "xs",
 "margin": "none",
 "color": "#33FF33",
@@ -5482,7 +5482,7 @@ async def maxgieBot(op):
 }                                          
                                           sendTemplate(to, data)                        
         if op.type == 26:
-            print ("[  SELF BOT ★ʄທയஆടஷະ★  ] ")
+            print ("[  SELF BOT TANBOTMEVERDIE✯͜͡❂➣  ] ")
             msg = op.message
             text = str(msg.text)
             msg_id = msg.id
