@@ -1469,8 +1469,8 @@ def lineBot(op):
                             line.sendText(msg.to,"ข้อความสเตตัส:\n"+userData.statusMessage)
                             line.sendText(msg.to,"ไอดีบัญชี: "+userData.mid)
                 
-                elif "รับแก้ไฟล์+เพิ่มไฟล์+แก้ภาษา\n💝ราคาดูที่หน้างาน💝\n👉มีบริการให้เช่าบอทSAMURAI\nราคา300บาทต่อเดือน💖\n#เพิ่มคิกเกอร์ตัวละ100👌\n🎀สนใจรีบทัก..บอทpython3ฟังชั่นล้นหลาม🎁กำลังรอให้คุณเป็นเจ้าของ\n(ผมจะอยู่ที่ห้องนี้แค่15นาทีนะจ๊ะ)\nselfbot by:\n╔══════════════┓\n[BY.มินทีมทดลองบอท] \n╚══════════════┛" in msg.text:
-                    spl = msg.text.split("รับแก้ไฟล์+เพิ่มไฟล์+แก้ภาษา\n💝ราคาดูที่หน้างาน💝\n👉มีบริการให้เช่าบอทSAMURAI\nราคา300บาทต่อเดือน💖\n#เพิ่มคิกเกอร์ตัวละ100👌\n🎀สนใจรีบทัก..บอทpython3ฟังชั่นล้นหลาม🎁กำลังรอให้คุณเป็นเจ้าของ\n(ผมจะอยู่ที่ห้องนี้แค่15นาทีนะจ๊ะ)\nselfbot by:\n╔══════════════┓\n[BY.มินทีมทดลองบอท]➣ \n╚══════════════┛")
+                elif "รับแก้ไฟล์+เพิ่มไฟล์+แก้ภาษา\n💝ราคาดูที่หน้างาน💝\n👉มีบริการให้เช่าบอทSAMURAI\nราคา300บาทต่อเดือน💖\n#เพิ่มคิกเกอร์ตัวละ100👌\n🎀สนใจรีบทัก..บอทpython3ฟังชั่นล้นหลาม🎁กำลังรอให้คุณเป็นเจ้าของ\n(ผมจะอยู่ที่ห้องนี้แค่15นาทีนะจ๊ะ)\nselfbot by:\n╔══════════════┓\n[BY.TANBOTNEVERDIES✯͜͡❂➣] \n╚══════════════┛" in msg.text:
+                    spl = msg.text.split("รับแก้ไฟล์+เพิ่มไฟล์+แก้ภาษา\n💝ราคาดูที่หน้างาน💝\n👉มีบริการให้เช่าบอทSAMURAI\nราคา300บาทต่อเดือน💖\n#เพิ่มคิกเกอร์ตัวละ100👌\n🎀สนใจรีบทัก..บอทpython3ฟังชั่นล้นหลาม🎁กำลังรอให้คุณเป็นเจ้าของ\n(ผมจะอยู่ที่ห้องนี้แค่15นาทีนะจ๊ะ)\nselfbot by:\n╔══════════════┓\n[BY.TANBOTNEVERDIES✯͜͡❂➣]➣ \n╚══════════════┛")
                     if spl[len(spl)-1] == "":
                         line.sendText(msg.to,"กดที่นี่เพื่อเขย่าข้อความด้านบน:\nline://nv/chatMsg?chatId="+msg.to+"&messageId="+msg.id) ### CMD COVER
                 elif ".รันแชท @" in msg.text:
@@ -2956,13 +2956,13 @@ def lineBot(op):
                     bc = msg.text.replace(".ประกาศกลุ่ม ","")
                     gid = line.getGroupIdsJoined()
                     for i in gid:
-                        line.sendText(i,"======[ข้อความประกาศกลุ่ม]======\n\n"+bc+"\n\nBy: MIN HACK SELFBOT")
+                        line.sendText(i,"======[ข้อความประกาศกลุ่ม]======\n\n"+bc+"\n\nBy: TANBOTNEVERDIES✯͜͡❂➣")
                     
                 elif ".ประกาศแชท " in msg.text:
                     bc = msg.text.replace(".ประกาศแชท ","")
                     gid = line.getAllContactIds()
                     for i in gid:
-                        line.sendText(i,"======[ข้อความประกาศแชท]======\n\n"+bc+"\n\nBy: MIN HACK SELFBOT!")
+                        line.sendText(i,"======[ข้อความประกาศแชท]======\n\n"+bc+"\n\nBy: TANBOTNEVERDIES✯͜͡❂➣!")
             
                 elif ".ส่งรูปภาพตามกลุ่ม: " in msg.text:
                     bc = msg.text.replace(".ส่งรูปภาพตามกลุ่ม: ","")
@@ -3007,7 +3007,7 @@ def lineBot(op):
                         if hr == day[i]: hasil = hari[i]
                     for k in range(0, len(bulan)):
                         if bln == str(k): bln = bulan[k-1]
-                    readTime = "🌴ปฏิทินโดย SAMURAI SELFBOT🌴\n\n🌿🌸🍃🌸🍃🌸🍃🌸🍃🌸🍃🌸🌿" + "\n\n🍁" + hasil + "\n🍁 ที่ " + timeNow.strftime('%d') + " - " + bln + " - " + timeNow.strftime('%Y')  + "\n🍁 เวลา : [ " + timeNow.strftime('%H:%M:%S') + " ]" + "🌿🌸🍃🌸🍃🌸🍃🌸🍃🌸🍃🌸🌿" + "\n\nBY: MIN HACK SELFBOT➣ \nhttps://github.com/Gumin_789"
+                    readTime = "🌴ปฏิทินโดย SAMURAI SELFBOT🌴\n\n🌿🌸🍃🌸🍃🌸🍃🌸🍃🌸🍃🌸🌿" + "\n\n🍁" + hasil + "\n🍁 ที่ " + timeNow.strftime('%d') + " - " + bln + " - " + timeNow.strftime('%Y')  + "\n🍁 เวลา : [ " + timeNow.strftime('%H:%M:%S') + " ]" + "🌿🌸🍃🌸🍃🌸🍃🌸🍃🌸🍃🌸🌿" + "\n\nBY: TANBOTNEVERDIES✯͜͡❂➣ \nhttps://github.com/prataennaimjoi"
                     line.sendMessage(msg.to, readTime)
 
                 elif "screenshotwebsite " in msg.text.lower():
@@ -3318,7 +3318,7 @@ def lineBot(op):
                          line.sendMessage(msg.to, "ตั้งข้อความเรืยบร้อย")
                      else:
                          settings["messageadd"] = spl
-                         line.sendMessage(msg.to, "™MIN HACK SELFBOT\n👇ตั้งข้อความตอบโต้เมื่อมีคนแอดแล้ว ดังนี้👇\n\n👉{}".format(str(spl)))
+                         line.sendMessage(msg.to, "™TANBOTNEVERDIES✯͜͡❂➣\n👇ตั้งข้อความตอบโต้เมื่อมีคนแอดแล้ว ดังนี้👇\n\n👉{}".format(str(spl)))
                          
                 elif '.คอมเม้น: ' in msg.text:
                   if msg._from in admin:
@@ -3327,7 +3327,7 @@ def lineBot(op):
                          line.sendMessage(msg.to, "ตั้งข้อความเรืยบร้อย")
                      else:
                          settings["comment"] = spl
-                         line.sendMessage(msg.to, "™MIN HACK SELFBOT\n👇ตั้งข้อความคอมเม้นของคุณแล้ว ดังนี้👇\n\n👉{}".format(str(spl))) 
+                         line.sendMessage(msg.to, "™TANBOTNEVERDIES✯͜͡❂➣\n👇ตั้งข้อความคอมเม้นของคุณแล้ว ดังนี้👇\n\n👉{}".format(str(spl))) 
                     
                 elif '.ตั้งแทค: ' in msg.text:
                   if msg._from in admin:
@@ -3336,7 +3336,7 @@ def lineBot(op):
                          line.sendMessage(msg.to, "ตั้งข้อความเรืยบร้อย")
                      else:
                          settings["Respontag"] = spl
-                         line.sendMessage(msg.to, "™MIN HACK SELFBOT\n👇ตั้งข้อความตอบโต้เมื่อมีคนแทคแล้ว👇\n\n👉{}".format(str(spl)))
+                         line.sendMessage(msg.to, "™TANBOTNEVERDIES✯͜͡❂➣\n👇ตั้งข้อความตอบโต้เมื่อมีคนแทคแล้ว👇\n\n👉{}".format(str(spl)))
                          
                 elif '.ทักเตะ: ' in msg.text:
                   if msg._from in admin:
@@ -3345,7 +3345,7 @@ def lineBot(op):
                          line.sendMessage(msg.to, "ตั้งข้อความคนคนลบสมาชิดเรียบร้อย")
                      else:
                           settings["kick"] = spl
-                          line.sendMessage(msg.to, "MIN HACK SELFBOT\nตั้งค่าข้อความเมื่อมีคนลบสมาชิกแล้ว\nดังนี้👇\n\n👉{}".format(str(spl)))
+                          line.sendMessage(msg.to, "TANBOTNEVERDIES✯͜͡❂➣\nตั้งค่าข้อความเมื่อมีคนลบสมาชิกแล้ว\nดังนี้👇\n\n👉{}".format(str(spl)))
 
                 elif '.ทักออก: ' in msg.text:
                   if msg._from in admin:
@@ -3354,7 +3354,7 @@ def lineBot(op):
                          line.sendMessage(msg.to, "ตั้งข้อความคนออกเรียบร้อย")
                      else:
                           settings["bye"] = spl
-                          line.sendMessage(msg.to, "™MIN HACK SELFBOT➣\nตั้งค่าข้อความเมื่อมีคนออกจากกลุ่มแล้ว\nดังนี้👇\n\n👉{}".format(str(spl)))
+                          line.sendMessage(msg.to, "™TANBOTNEVERDIES✯͜͡❂➣➣\nตั้งค่าข้อความเมื่อมีคนออกจากกลุ่มแล้ว\nดังนี้👇\n\n👉{}".format(str(spl)))
 
                 elif '.ทักเข้า: ' in msg.text:
                   if msg._from in admin:
@@ -3363,7 +3363,7 @@ def lineBot(op):
                          line.sendMessage(msg.to, "ตั้งข้อความคนเข้าเรียบร้อยแล้ว")
                      else:
                           settings["welcome"] = spl
-                          line.sendMessage(msg.to, "™MIN HACK SELFBOT\nตั้งค่าข้อความเมื่อมีคนเข้ากลุ่มแล้ว\nดังนี้👇\n\n👉{}".format(str(spl)))
+                          line.sendMessage(msg.to, "™TANBOTNEVERDIES✯͜͡❂➣\nตั้งค่าข้อความเมื่อมีคนเข้ากลุ่มแล้ว\nดังนี้👇\n\n👉{}".format(str(spl)))
 
                 elif msg.text.lower().startswith("textig "):
                     sep = msg.text.split(" ")
