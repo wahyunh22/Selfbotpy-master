@@ -341,9 +341,9 @@ def mentionMembers(to, mid):
         line.sendMessage(to, "[ INFO ] Error :\n" + str(error))
 
 def myhelp():
-    myHelp = """꧁มินทีมทดลองบอท꧂
- SELF BOT MIN HACK
-꧁ชุดคำสั่ง ภาษาไทย꧂
+    myHelp = """TANBOTNEVERDIES✯͜͡❂➣
+ TANBOTNEVERDIES✯͜͡❂➣
+═हईชุดคำสั่ง ภาษาไทยईह═
 ╔═══════════════════┓
 ╔══════════╗
 ╠✰ เช็ค [เช็คการตั้งค่า]
@@ -434,9 +434,9 @@ def myhelp():
     return myHelp
 
 def listgrup():
-    listGrup = """꧁มินทีมทดลองบอท꧂
- SELF BOT MIN HACK
-꧁ชุดคำสั่ง ภาษาไทย꧂
+    listGrup = """TANBOTNEVERDIES✯͜͡❂➣
+ TANBOTNEVERDIES✯͜͡❂➣
+═हईชุดคำสั่ง ภาษาไทยईह═
  ────┅═ই۝ई═┅────
              คำสั่งในกลุ่ม
  ────┅═ই۝ई═┅────
@@ -479,9 +479,9 @@ def listgrup():
     return listGrup
 
 def socmedia():
-    socMedia = """꧁มินทีมทดลองบอท꧂
- SELF BOT MIN HACK
-꧁ชุดคำสั่ง ภาษาไทย꧂
+    socMedia = """TANBOTNEVERDIES✯͜͡❂➣
+ TANBOTNEVERDIES✯͜͡❂➣
+═हईชุดคำสั่ง ภาษาไทยईह═
 
 ╔══════════════┓
 ╠❂➣ ปฏิทิน
@@ -502,9 +502,9 @@ def socmedia():
     return socMedia
 
 def helpset():
-    helpSet = """꧁มินทีมทดลองบอท꧂
- SELF BOT MIN HACK
-꧁ชุดคำสั่ง ภาษาไทย꧂
+    helpSet = """TANBOTNEVERDIES✯͜͡❂➣
+ TANBOTNEVERDIES✯͜͡❂➣
+═हईชุดคำสั่ง ภาษาไทยईह═
 ╔══════════════┓
 ╠❂➣ โย่ว
 ╠❂➣ ไอดี
@@ -551,9 +551,9 @@ def helpset():
     return helpSet
 
 def helpsetting():
-    helpSetting = """꧁มินทีมทดลองบอท꧂
- SELF BOT MIN HACK
-꧁ชุดคำสั่ง ภาษาไทย꧂
+    helpSetting = """TANBOTNEVERDIES✯͜͡❂➣
+ TANBOTNEVERDIES✯͜͡❂➣
+═हईชุดคำสั่ง ภาษาไทยईह═
 ╔══════════════┓
 ╠❂➣ เปิดกัน/ปิดกัน
 ╠❂➣ กันยก/ปิดกันยก
